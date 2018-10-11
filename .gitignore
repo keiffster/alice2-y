@@ -118,3 +118,5 @@ bots/multibot/
 
 # Visual Studio code
 .vscode
+
+storage/debug
