@@ -120,3 +120,5 @@ bots/multibot/
 .vscode
 
 storage/debug
+
+*.log
